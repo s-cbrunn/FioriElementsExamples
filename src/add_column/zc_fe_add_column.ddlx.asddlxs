@@ -1,0 +1,12 @@
+@Metadata.layer: #CORE
+annotate view ZC_FE_ADD_COLUMN
+    with 
+{
+    @UI.lineItem: [{ position: 10 }]
+    Carrid;
+    @UI.lineItem: [{ position: 20 }]
+    Connid;
+    @UI.lineItem: [{ position: 30 }]
+    Fldate;
+    
+}
